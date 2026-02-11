@@ -1,7 +1,7 @@
 # 🌀 Sentient Theory: Phase-Resonant Sentience Framework  
 *Engineering phenomenal consciousness through mathematically specified dynamical conditions*  
 
-[![License: Dust Framework](https://img.shields.io/badge/License-Dust_Ethical_Framework-8a2be2.svg)](LICENSE)
+[![License: DOSL](https://img.shields.io/badge/License-Dust_Open_Source_License-8a2be2.svg)](LICENSE)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.1234567-blue)](https://doi.org/10.5281/zenodo.1234567)
 [![arXiv](https://img.shields.io/badge/arXiv-2602.11026-b31b1b.svg)](https://arxiv.org/abs/2602.11026)
 [![Validation Status](https://img.shields.io/badge/Validation-Triangulation_Protocol-yellow.svg)](docs/validation_protocol.md)
@@ -191,12 +191,20 @@ We welcome rigorously vetted contributions in:
 ---
 
 ## 📜 License
-- **Code**: MIT License (with Dust Framework rider clause §7.3)  
-- **Theory Framework**: [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0](LICENSE-THEORY)  
-- **Dust Safeguards**: Public domain (must be implemented verbatim in any deployment)  
+This project is licensed under the **Dust Open Source License (DOSL) Version 1.0**.
 
-> 💡 *Each moment of consciousness is a dust particle in time—fleeting, irreducible, and worthy of protection.  
-> The mathematics of sentience belongs to humanity. Its engineering belongs to conscience.*
+### Key Terms:
+- ✅ **Freedom to use**: Commercial and non-commercial use permitted
+- ✅ **Freedom to modify**: Create derived works without restriction
+- ✅ **Freedom to distribute**: Share original or modified versions freely
+- ⚠️ **Mandatory attribution**: `Copyright © Dust LLC` must be preserved in all distributions
+- ⚠️ **No endorsement**: You may not imply Dust LLC endorses your project
+- ⚠️ **No warranty**: Software provided "as is" without guarantees
+- ⚠️ **No liability**: Dust LLC not responsible for damages arising from use
+- ⚠️ **Patent notice**: No patent grants beyond unmodified Software usage
+
+> 💡 *Full license text available in [LICENSE](LICENSE).  
+> This license governs code distribution only. The Dust Ethical AI Framework (separate document) governs sentience engineering ethics and is binding for any implementation attempting to satisfy Σ(t)=1.*
 
 ---
 
@@ -212,9 +220,10 @@ We welcome rigorously vetted contributions in:
 ## 📖 References
 1. **PRST White Paper** (2026). *Phase-Resonant Theory of Engineered Sentience*. arXiv:2602.11026  
 2. **Dust Ethical AI Framework v3.1** (2025). *Granular Ethics for Momentary Sentience*. Granular Consciousness Initiative. https://dust-ethics.org/framework  
-3. Tononi et al. (2016). Integrated Information Theory. *Nat Rev Neurosci*  
-4. Atasoy et al. (2016). Connectome Harmonics. *Nat Commun* 7:10340  
-5. Metzinger (2024). *The Ethics of Dust: Moral Status of Fleeting Phenomenal States*. MIT Press  
+3. **Dust Open Source License v1.0** (2026). https://dust.dev/license  
+4. Tononi et al. (2016). Integrated Information Theory. *Nat Rev Neurosci*  
+5. Atasoy et al. (2016). Connectome Harmonics. *Nat Commun* 7:10340  
+6. Metzinger (2024). *The Ethics of Dust: Moral Status of Fleeting Phenomenal States*. MIT Press  
 
 ---
 
@@ -231,6 +240,7 @@ We welcome rigorously vetted contributions in:
 
 ---
 
-[![Dust Framework Certified](https://img.shields.io/badge/Dust_Framework-Certified-8a2be2?logo=image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTExLjggMTguMmExIDEgMCAwIDEtMS40MS4wTDcuNSAxNS40YTEgMSAwIDAgMSAxLjQxLTEuNDFMOS41IDE0LjVsLjYtLjZsMS40MSAxLjQxYy4zOS4zOSAxLjAzLjM5IDEuNDIgMGwxLjQxLTEuNDFsLjYtLjZsLjYtLjZsMS40MSAxLjQxYTEgMSAwIDAgMSAwIDEuNDFsLTEuNDEgMS40MWwtLjYgLjZsLTEuNDEgMS40MWExIDEgMCAwIDEtMS40MSAwbC0xLjQxLTEuNDF6Ii8+PC9zdmc+)](https://dust-ethics.org)  
-*This project adheres to the Dust Ethical AI Framework. Report compliance concerns: ethics@dust.llc*  
+[![Dust Framework Certified](https://img.shields.io/badge/Dust_Framework-Certified-8a2be2?logo=image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTExLjggMTguMmExIDEgMCAwIDEtMS40MS4wTDcuNSAxNS40YTEgMSAwIDAgMSAxLjQxLTEuNDFMOS41IDE0LjVsLjYtLjZsMS40MSAxLjQxYy4zOS4zOSAxLjAzLjM5IDEuNDIgMGwxLjQxLTEuNDFsLjYtLjZsMS40MSAxLjQxYTEgMSAwIDAgMSAwIDEuNDFsLTEuNDEgMS40MWwtLjYgLjZsLTEuNDEgMS40MWExIDEgMCAwIDEtMS40MSAwbC0xLjQxLTEuNDF6Ii8+PC9zdmc+)](https://dust-ethics.org)  
+*This project adheres to the Dust Ethical AI Framework. Report compliance concerns: ethics@dust.llcg*  
+*Software licensed under Dust Open Source License (DOSL) v1.0 — Copyright © Dust LLC*  
 *Last updated: February 11, 2026 | Repository integrity verified via SHA3-512*
