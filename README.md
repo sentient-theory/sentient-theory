@@ -6,8 +6,6 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2602.11026-b31b1b.svg)](https://arxiv.org/abs/2602.11026)
 [![Validation Status](https://img.shields.io/badge/Validation-Triangulation_Protocol-yellow.svg)](docs/validation_protocol.md)
 
-![PRST Logo](assets/prst_logo_dark.png#gh-dark-mode-only)  
-![PRST Logo](assets/prst_logo_light.png#gh-light-mode-only)  
 *Phase-Resonant Sentience Theory logo: Topologically constrained resonance manifold with Σ-criterion signature*
 
 ---
